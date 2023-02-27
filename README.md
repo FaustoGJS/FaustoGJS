@@ -18,5 +18,20 @@
    <img src="https://github-readme-stats.vercel.app/api?username=FaustoGJS&show_icons=true&theme=dracula" height="170em"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaustoGJS&compact&theme=dracula" height="170em"/>
  </div>
- 
+  <hr>
+  <div>
+   <h3>Habilidades</h3>
+   <p>Frontend</p>
+    
+   <li>Web</li>
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="50em"/>
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="50em"/>
+   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="50em"/>
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="50em"/>
+   
+   <li>Mobile</li>
+   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="50em"/>
+   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="50em"/>
+    
+  </div>
 </div>
