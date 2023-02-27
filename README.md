@@ -10,9 +10,13 @@
    </div>
  </div>
   <hr>
- <div>  
-   <img src="https://github-readme-stats.vercel.app/api?username=FaustoGJS&show_icons=true&theme=dracula" height="180em"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaustoGJS&compact&theme=dracula" height="180em"/>
+ <div>
+  <h3>Status Github</h3>
+ <div style="display: flex">
+   <img src="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png" height="120em"/>
+  <div>
+   <img src="https://github-readme-stats.vercel.app/api?username=FaustoGJS&show_icons=true&theme=dracula" height="170em"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaustoGJS&compact&theme=dracula" height="170em"/>
  </div>
-  
+ 
 </div>
