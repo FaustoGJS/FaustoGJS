@@ -1,14 +1,16 @@
 <h2>Olá, sou o Fausto Garcia Jacinto Silva.</h2>
 <img src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png" height="180em" align="right" margin-top="-20px"/>
 <h3>Formação</h3>
-<p><strong>Graduação:</strong> Analise e Desenvolvimento de Sistemas desde 2022 pela Uninove.</p>
+<p><strong>Graduação:</strong> Análise e Desenvolvimento de Sistemas desde 2022 pela Uninove.</p>
 <p><strong>Pós-Graduação:</strong> Desenvolvimento mobile com ênfase em flutter desde 2023 pela Fetes.</p>
 <br>
 <hr>
 <h3>Status Github</h3>
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png" height="120em"/>
-<img src="https://github-readme-stats.vercel.app/api?username=FaustoGJS&show_icons=true&theme=dracula" height="170em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaustoGJS&compact&theme=dracula" height="170em"/>
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png" height="180em" align="right" margin-top="-20px"/>
+<div style={display: "inline_block"}>
+<img src="https://github-readme-stats.vercel.app/api?username=FaustoGJS&show_icons=true&theme=dracula" height="140em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaustoGJS&compact&theme=dracula" height="140em"/>
+</div>
 <hr>
 <h3>Habilidades</h3>
 <p>Frontend</p>
