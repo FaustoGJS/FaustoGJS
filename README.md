@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=50&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?;+Sou+o+Fausto+Garcia+Jacinto+Silva;Vou+conta+um+pouco+sobre+mim+.+.+.;Aqui+tem+algumas+informações+como:;+Minha+Formação+e+cursos;+Meu+Status+no+Github;+Meus+Conhecimentos+e+Habilidades;+Meu+Contato+e+Redes+Sociais;Espero+que+goste;Até+mais+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=55aadd&size=45&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?;+Sou+o+Fausto+Garcia+Jacinto+Silva;Vou+conta+um+pouco+sobre+mim+.+.+.;Aqui+tem+algumas+informações+como:;+Minha+Formação+e+cursos;+Meu+Status+no+Github;+Meus+Conhecimentos+e+Habilidades;+Meu+Contato+e+Redes+Sociais;Espero+que+goste;Até+mais+.+.+.)](https://git.io/typing-svg)
 
 <hr>
 
