@@ -1,5 +1,3 @@
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" height="140em" align="right"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=50&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?;+Sou+o+Fausto+Garcia+Jacinto+Silva)](https://git.io/typing-svg)
 
 <hr>
@@ -14,7 +12,7 @@
 <img src="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png" height="120em" align="right" margin-top="-20px"/>
 <div style={display: "inline_block"}>
 <img src="https://github-readme-stats.vercel.app/api?username=FaustoGJS&show_icons=true&theme=dracula" height="140em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaustoGJS&compact&theme=dracula" height="140em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaustoGJS&layout=compact&theme=dracula" height="140em"/>
 </div>
 <hr>
 <h3>Conhecimentos</h3>
@@ -45,9 +43,20 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="50em"/>
 </div>
 
+
+<div style={display:"inline_block"} align="center">
+<h3>Contato / Redes sociais</h3>
+<a href="https://www.linkedin.com/in/fausto-garcia-jacinto-silva-b7a5a9186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://api.whatsapp.com/send/?phone=5511930038209&text=Ola+Fausto+gostei+do+seu+github+podemos+conversar&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</div>
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FaustoGJS}/count.svg" /></p> 
 <br>
 </div>
+
+
+
+
 
