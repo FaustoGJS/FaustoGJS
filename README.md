@@ -1,6 +1,8 @@
-<h2>Olá, tudo bem?<img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" height="50em"/><br>
-Sou o Fausto Garcia Jacinto Silva, vou contar um pouco sobre mim.
-</h2>
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" height="150em" align="right"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=50&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?;+Sou+o+Fausto+Garcia+Jacinto+Silva.;Vou+contar+um+pouco+sobre+mim+.+.+.;Tenho+35+anos;Sou+de+São+Paulo+/+Capital;Sou+Desenvolvedor+JAVA+Junior!+:%29)](https://git.io/typing-svg)
+
+<hr>
 
 <img src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png" height="120em" align="right" margin-top="-20px"/>
 <h3>Formação</h3>
@@ -43,4 +45,9 @@ Sou o Fausto Garcia Jacinto Silva, vou contar um pouco sobre mim.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="50em"/>
 </div>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FaustoGJS}/count.svg" /></p> 
+<br>
+</div>
 
