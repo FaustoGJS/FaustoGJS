@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=50&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?;+Sou+o+Fausto+Garcia+Jacinto+Silva)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=50&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?;+Sou+o+Fausto+Garcia+Jacinto+Silva;Vou+conta+um+pouco+sobre+mim+.+.+.;Aqui+tem+algumas+informações+como:;+Minha+Formação+e+cursos;+Meu+Status+no+Github;+Meus+Conhecimentos+e+Habilidades;+Meu+Contato+e+Redes+Sociais;Espero+que+goste;Até+mais+.+.+.)](https://git.io/typing-svg)
 
 <hr>
 
@@ -43,7 +43,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="50em"/>
 </div>
 
-
+<hr>
 <div style={display:"inline_block"} align="center">
 <h3>Contato / Redes sociais</h3>
 <a href="https://www.linkedin.com/in/fausto-garcia-jacinto-silva-b7a5a9186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
