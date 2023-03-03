@@ -1,23 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=55aadd&size=45&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?;+Sou+o+Fausto+Garcia+Jacinto+Silva;Vou+conta+um+pouco+sobre+mim+.+.+.;Aqui+tem+algumas+informações+como:;+Minha+Formação+e+cursos;+Meu+Status+no+Github;+Meus+Conhecimentos+e+Habilidades;+Meu+Contato+e+Redes+Sociais;Espero+que+goste;Até+mais+.+.+.)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=55aadd&size=45&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?;Aqui+tem+algumas+informações+como:;+Meu+Status+no+Github;+Minha+Formação+e+cursos;+Meus+Conhecimentos+e+Habilidades;+Meu+Contato+e+Redes+Sociais;Até+mais+.+.+.)](https://git.io/typing-svg)
+
+<div style={display: "inline_block"}align="center"width="100%" margin="auto">
+<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FaustoGJS&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="FaustoGJS github stats" /> 
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaustoGJS&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 <hr>
 
 <img src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png" height="120em" align="right" margin-top="-20px"/>
 <h3>Formação</h3>
-<p><strong><a href="https://github.com/FaustoGJS/Uninove_TADS/blob/main/assets/Diploma/Diploma%20Universitario.pdf">Graduação:</a></strong> Análise e Desenvolvimento de Sistemas desde 2022 pela Uninove.</p>
+<p><a href="https://github.com/FaustoGJS/Uninove_TADS/blob/main/assets/Diploma/Diploma%20Universitario.pdf"><strong>Graduação:</strong> Análise e Desenvolvimento de Sistemas desde 2022 pela Uninove.</a></p>
 <p><strong>Pós-Graduação:</strong> Desenvolvimento mobile com ênfase em flutter desde 2023 pela Fetes.</p>
 <br>
 <hr>
-<h3>Status Github</h3>
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png" height="120em" align="right" margin-top="-20px"/>
-<div style={display: "inline_block"}>
-<img src="https://github-readme-stats.vercel.app/api?username=FaustoGJS&show_icons=true&theme=dracula" height="140em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaustoGJS&layout=compact&theme=dracula" height="140em"/>
-</div>
-<hr>
 <h3>Conhecimentos</h3>
 <div style={display:"inline_block"}>
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/man-teacher-medium-skin-tone_1f468-1f3fd-200d-1f3eb.png" height="120em" align="right"/>
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png" height="120em" align="right"/>
 
 <li>Backend</li>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50em"/>
@@ -50,9 +49,12 @@
 <a href="https://api.whatsapp.com/send/?phone=5511930038209&text=Ola+Fausto+gostei+do+seu+github+podemos+conversar&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </div>
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+ 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FaustoGJS}/count.svg" /></p> 
+<p align="centre"><b>VISUALIZAÇÕES</b></p> 
 <br>
 </div>
 
