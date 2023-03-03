@@ -20,6 +20,7 @@
 
 <li>Backend</li>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50em"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50em" />   
           
 <li>Web</li>
 
@@ -32,8 +33,10 @@
           
 </div>
 <li>Mobile</li>
-
+<div style={display:"inline_block"}>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50em"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50em"/>
+</div>
 
 <div style={display:"inline_block"}>
 <li>Embarcado</li>
