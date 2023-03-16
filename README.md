@@ -14,8 +14,10 @@
 
 <img src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png" height="120em" align="right" margin-top="-20px"/>
 <h3>Formação</h3>
-<p><a href="https://github.com/FaustoGJS/Uninove_TADS/blob/main/assets/Diploma/Diploma%20Universitario.pdf"><strong>Graduação:</strong> Análise e Desenvolvimento de Sistemas desde 2022 pela Uninove.</a></p>
+<ul>
+<p><li><a href="https://github.com/FaustoGJS/Uninove_TADS/blob/main/assets/Diploma/Diploma%20Universitario.pdf"><strong>Graduação:</strong> Análise e Desenvolvimento de Sistemas desde 2022 pela Uninove.</a></li>Inicio: 03/2020 - Termino: 06/2022</p>
 <p><strong>Pós-Graduação:</strong> Desenvolvimento mobile com ênfase em flutter desde 2023 pela Fetes.</p>
+</ul>
 <br>
 <hr>
 
